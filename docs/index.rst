@@ -18,9 +18,7 @@ And will update it at the earliest.
 How to get help?
 -------------------------------
 
-Do you feel stuck? Don't worry; you're not alone. 
-Reach out to BoxBilling's vibrant community on GitHub, or try searching :ref:`search<this documentation>`. 
-Give our :ref:`faq<frequently asked questions section>` a read, or try `Stack Overflow <https://stackoverflow.com/search?q=boxbilling`_ and similar forums on the web.
+
 
 Contents
 --------------------------
