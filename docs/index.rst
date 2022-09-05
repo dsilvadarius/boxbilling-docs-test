@@ -1,26 +1,26 @@
 BoxBilling documentation
 ========================================
 
-This is the documentation for Boxbilling. BoxBilling is an open-source billing, client and
-order management software which is designed to be easy to use for clients and
-sellers.
+This documentation is for BoxBilling: an open-source billing, client, and order management software. 
+Our developers made BoxBilling easy to use for clients and sellers alike.
 
 IMPORTANT NOTE!
 -------------------------------
 
-This documentation was written for an earlier version of BoxBilling and much of the information may now be out of date!
+We wrote this documentation for release 4.22-beta.1.5 (2022-4-3) of BoxBilling.
 
-The BoxBilling project is now open-source and is in active community development. This documentation will be updated to be relevant to the current version of the software as soon as possible. 
+Note: Since BoxBilling is open source and is a community-driven project.
+This documentation might lag behind the current release of the software from time to time. 
+If that happens, we would appreciate it if you open an issue on GitHub stating 
+"the BoxBilling documentation is outdated" as the title and your observations in the body. 
+And will update it at the earliest.
 
-Getting help
+How to get help?
 -------------------------------
 
-Having trouble? We'd like to help!
-
-* Active BoxBilling development and support is on GitHub at https://github.com/boxbilling/boxbilling
-* You are looking for main project website? It is http://www.boxbilling.com *(also currently outdated)*
-* Try the :ref:`faq` - it's got answers to many common questions
-* Still can not find what you're looking for? Try :ref:`search`
+Do you feel stuck? Don't worry; you're not alone. 
+Reach out to BoxBilling's vibrant community on GitHub, or try searching :ref:`search<this documentation>`. 
+Give our :ref:`faq<frequently asked questions section>` a read, or try `Stack Overflow <https://stackoverflow.com/search?q=boxbilling`_ and similar forums on the web.
 
 Contents
 --------------------------
