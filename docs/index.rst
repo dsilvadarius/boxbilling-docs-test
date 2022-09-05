@@ -21,7 +21,7 @@ How to get help?
 Do you feel stuck? Don't worry; you're not alone. 
 Reach out to BoxBilling's vibrant community on GitHub, or try searching :ref:`search <this documentation>`.
 
-Learn how to :ref:`link to a different section<Cross-References to Locations in the Same Document>`.
+Learn how to :ref:`faq<Cross-References to Locations in the Same Document>`.
 
 Contents
 --------------------------
